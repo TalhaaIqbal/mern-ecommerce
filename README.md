@@ -1,4 +1,5 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
+
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
